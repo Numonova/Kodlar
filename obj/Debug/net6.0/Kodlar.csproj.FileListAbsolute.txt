@@ -1,0 +1,14 @@
+D:\Projects\Kodlar\Kodlar\bin\Debug\net6.0\Kodlar.exe
+D:\Projects\Kodlar\Kodlar\bin\Debug\net6.0\Kodlar.deps.json
+D:\Projects\Kodlar\Kodlar\bin\Debug\net6.0\Kodlar.runtimeconfig.json
+D:\Projects\Kodlar\Kodlar\bin\Debug\net6.0\Kodlar.dll
+D:\Projects\Kodlar\Kodlar\bin\Debug\net6.0\Kodlar.pdb
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.AssemblyInfoInputs.cache
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.AssemblyInfo.cs
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.csproj.CoreCompileInputs.cache
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.dll
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\refint\Kodlar.dll
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.pdb
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\Kodlar.genruntimeconfig.cache
+D:\Projects\Kodlar\Kodlar\obj\Debug\net6.0\ref\Kodlar.dll
